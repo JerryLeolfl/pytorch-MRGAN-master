@@ -2,7 +2,7 @@
 Code of the moire removal method "Unsupervised Moire Patterns Removal for Recaptured Screen Images"
 
 ## Results
-<img src='results.png' width="800px"/>
+<img src='moire.pdf' width="800px"/>
 
 <br><br><br>
 ## Framework
