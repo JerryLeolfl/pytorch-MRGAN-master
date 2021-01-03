@@ -4,7 +4,6 @@ Code of the moire removal method "Unsupervised Moire Patterns Removal for Recapt
 ## Results
 <img src='./result.jpg' width="800px"/>
 
-<br><br><br>
 ## Framework
 <img src="frameworks.png" width="800px"/>
 
