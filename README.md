@@ -1,11 +1,12 @@
 # pytorch-MRGAN-master
 Code of the moire removal method "Unsupervised Moire Patterns Removal for Recaptured Screen Images"
 
-<img src='imgs/results.pdf' width="800px"/>
+## Results
+<img src='results.png' width="800px"/>
 
 <br><br><br>
-
-<img src="imgs/frameworks.pdf" width="800px"/>
+## Framework
+<img src="frameworks.png" width="800px"/>
 
 ## Prerequisites
 - Linux or macOS
