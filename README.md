@@ -24,6 +24,7 @@ cd pytorch-MRGAN-master
 - Install [PyTorch](http://pytorch.org) and 0.4+ and other dependencies (e.g., torchvision, [visdom](https://github.com/facebookresearch/visdom) and [dominate](https://github.com/Knio/dominate)).
 
 ### train/test
+- Get the whole [dataset](https://pan.baidu.com/s/1_4IeSwDkJXetNjbkCcCr3w)(key:8wm4).
 - To view training results and loss plots, run `python -m visdom.server` and click the URL http://localhost:8097.
 - Train a model:
 ```bash
@@ -43,7 +44,6 @@ If you use this code for your research, please cite our papers.
 @inproceedings{MRGAN2021yue,
   title={Unsupervised Moir\'e Pattern Removal for Recaptured Screen Images},
   author={Huanjing Yue, Fanglong Liu and Jingyu Yang},
-  booktitle={ },
   year={2021}
 }
 ```
