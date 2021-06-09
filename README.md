@@ -37,6 +37,16 @@ python test.py --dataroot ./path/to/testset --name moire_cyclegan --model cycle_
 ```
 - The test results will be saved to a html file here: `./results/moire_cyclegan/latest_test/index.html`.
 
+## Citation
+If you use this code for your research, please cite our papers.
+```
+@article{YUE2021,
+title = {Unsupervised Moiré Pattern Removal for Recaptured Screen Images},
+journal = {Neurocomputing},
+year = {2021},
+author = {Huanjing Yue and Yijia Cheng and Fanglong Liu and Jingyu Yang}
+}
+```
 
 ## Acknowledgments
 Our code is inspired by [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix).
